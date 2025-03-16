@@ -1,0 +1,29 @@
+{
+   "extension_name": {
+      "message": "Adblock kwa Youtube ™"
+   },
+   "extension_short_name": {
+      "message": "VideoAdblock"
+   },
+   "extension_description": {
+      "message": "Inachukua matangazo kutoka Youtube."
+   },
+   "page_action_title": {
+      "message": "Settings"
+   },
+   "disabled": {
+      "message": "Walemavu"
+   },
+   "disable": {
+      "message": "Zima"
+   },
+   "enable": {
+      "message": "Wezesha"
+   },
+   "rate_this_extension": {
+      "message": "Kiwango cha sisi"
+   },
+   "like_on_facebook": {
+      "message": "Tathmini yetu kwenye Facebook"
+   }
+}
